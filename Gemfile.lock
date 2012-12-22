@@ -216,5 +216,5 @@ DEPENDENCIES
   spork (= 0.9.0)
   sqlite3
   uglifier (>= 1.0.3)
-  wdm
+  wdm (= 0.0.3)
   will_paginate
